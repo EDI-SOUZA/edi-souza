@@ -1,7 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Edilson Souza and my nickname is "EDI-SOUZA-DEV"!
 
-- 🔭 Atualmente estou trabalhando no provedor de soluções SOFT TELECOM ...
 - ⚡ Curiosidade: Meus hobbies são: Correr, futebol e maratonar séries.
 
 ## Estou aprendendo:
