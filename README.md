@@ -35,5 +35,5 @@ Aqui estão alguns projetos que eu estou trabalhando:
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=edi-souza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 ---
-🚀 Sempre em busca de novos desafios! Obrigado pela visita ao meu perfil. 😊
+🚀 Sempre em busca de novos desafios!
 
